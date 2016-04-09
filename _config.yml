@@ -1,0 +1,28 @@
+name: up
+favicon: null
+layout_spectrum: 0.3261755716521293
+typography_spectrum: 0.0245315651409328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20110443467274308
+  lightness: 0.7600852120667696
+  saturation: 0.13186638476327062
+  rhythmicContrast: 0.4861781906802207
+purpose: []
