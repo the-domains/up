@@ -1,5 +1,7 @@
-favicon: null
-name: up
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.367884
+  saturation: 0.1928034
   brandStrength: 0.2011044346727431
-  lightness: 0.8437164
+  lightness: 0.7244898
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 0.2561761
+  rhythmicContrast: 0.1143931
 typography_spectrum: 0.5322234
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0
+favicon: null
+name: up
