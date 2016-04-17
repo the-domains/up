@@ -1,28 +1,40 @@
-name: up
 favicon: null
-layout_spectrum: 0.3261755716521293
-typography_spectrum: 0.0245315651409328
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: up
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.367884
+  brandStrength: 0.2011044346727431
+  lightness: 0.8437164
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.20110443467274308
-  lightness: 0.7600852120667696
-  saturation: 0.13186638476327062
-  rhythmicContrast: 0.4861781906802207
-purpose: []
+  rhythmicContrast: 0.2561761
+typography_spectrum: 0.5322234
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
